@@ -1,5 +1,19 @@
-# 💻 Kali Linux Cheatsheet for Ethical Hackers (2026 Edition)
-This repository documents my core cybersecurity knowledge, expanded with examples, real-world scenario, CTF references, and secure software practices. It serves as a learning journal and professional portfolio.
+<h1 align="center">💻 Kali Linux Cheatsheet for Ethical Hackers</h1>
+<p align="center"><b>A production-grade command reference that follows the real penetration-testing lifecycle, with what each command does and why it matters.</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Edition-2026-455CE9?style=flat-square" alt="Edition" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="MIT License" />
+  <img src="https://img.shields.io/badge/Scope-Recon%20%E2%86%92%20PrivEsc-2ea44f?style=flat-square" alt="Scope" />
+  <a href="https://github.com/tito-devsec/essential-linux-cheatsheet/stargazers"><img src="https://img.shields.io/github/stars/tito-devsec/essential-linux-cheatsheet?style=flat-square&color=f1c40f" alt="Stars" /></a>
+</p>
+
+<p align="center"><i>Keep this one command away during an engagement: a ⭐ bookmarks it for you and surfaces it for others.</i></p>
+
+> This repository documents core offensive-security knowledge with examples, real-world scenarios and CTF references. It serves as a learning journal and professional portfolio.
+
+---
+
 
 **Author:** Tito Oscar Mwaisengela
 
